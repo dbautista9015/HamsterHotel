@@ -1,0 +1,79 @@
+.navbar {
+    background-color: #000324;
+}
+
+.nav-link {
+    color: white !important;
+    font: normal normal normal 20px/26px Dosis;
+}
+
+.navbar-toggler {
+    background-color: rgba(255, 255, 255, 0.671);
+}
+
+
+
+.MainPageHeroImage {
+    background-image: url("../images/header.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 70vh;
+}
+
+.bgMainPage {
+    background-color: #000324;
+    opacity: 0.8;  
+}
+
+.hamsterHome {
+    height: 50vh;
+    width: 100vh;
+}
+
+.bgBlue {
+    background-color: #000324;
+}
+
+
+.amenitiesImage {
+    background-image: url("../images/bg.jpg");
+    background-size: cover;
+    background-position: center;
+    
+}
+
+/* asdfasdfa */
+
+.inputColor {
+    border-color: #7A90D9;
+    border-radius: 0px;
+}
+
+.submitColor {
+    border-color: #000DC7;
+    border-radius: 0px;
+    background-color: #006EDB;
+}
+
+.bgHamsterImage {
+    background-image: url("../images/hamsterreserve.jpg");
+    background-size: cover;
+}
+
+.startingPrice {
+    color: #1F51A8;
+}
+
+.MainPageBgMb{
+    margin-bottom: 90px;
+}
+.MainPageBgMt{
+    margin-top: 100px;
+}
+.MarginTopbgText{
+    margin-top: 130px;
+}
+
+* {
+    font: font normal dosis;
+}
